@@ -1,6 +1,6 @@
 # 🪪 Session ID Login Mod
 
-![GitHub Downloads](https://img.shields.io/github/downloads/Majanito/Fabric-Session-Login/total?style=for-the-badge)
+![GitHub Downloads](https://img.shields.io/github/downloads/MaksVavrikGit/Fabric-Session-Login-1.21.7-1.21.10/total?style=for-the-badge)
 
 A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft session IDs.
 
@@ -9,12 +9,10 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 ---
 
 ## 🧭 Available Versions
-
+The original mod for versions 1.21–1.21.5 is also available here — [Fabric-Session-Login](https://github.com/Majanito/Fabric-Session-Login).
 | Minecraft Version | Branch     | Link                                                                 |
 |-------------------|------------|----------------------------------------------------------------------|
-| 1.21.5            | `main`     | [View Branch](https://github.com/Majanito/Fabric-Session-Login/tree/main)     |
-| 1.21.4            | `1.21.4`   | [View Branch](https://github.com/Majanito/Fabric-Session-Login/tree/1.21.4)   |
-| 1.21.1            | `1.21.1`   | [View Branch](https://github.com/Majanito/Fabric-Session-Login/tree/1.21.1)   |
+| 1.21.7-1.21.10            | `main`     | [View Branch](https://github.com/MaksVavrikGit/Fabric-Session-Login-1.21.7-1.21.10)     |
 
 ---
 
@@ -34,7 +32,7 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 ## 📥 Installation
 
-1. Download the mod `.jar` from [Releases](https://github.com/Majanito/Fabric-Session-Login/releases)
+1. Download the mod `.jar` from [Releases](https://github.com/MaksVavrikGit/Fabric-Session-Login-1.21.7-1.21.10/releases)
 2. Place it in your `.minecraft/mods` folder
 3. Launch the game using a Fabric-enabled profile
 
@@ -54,7 +52,7 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 ## 🛠️ For Developers
 
-- Built for **Minecraft 1.21.5**
+- Built for **Minecraft 1.21.10**
 - Requires **Java 21**
 - Uses **Gradle** and **Fabric Loom**
 
