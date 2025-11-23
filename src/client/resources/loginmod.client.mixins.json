@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "dev.maksvavrik.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"MinecraftClientMixin",
+		"MultiplayerScreenMixin",
+		"ScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
